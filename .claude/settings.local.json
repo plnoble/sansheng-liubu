@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://api.github.com/repos/cft0808/edict/contents/scripts\")",
+      "Bash(python3 -c \"import sys,json; [print\\(i[''name''],i[''type'']\\) for i in json.load\\(sys.stdin\\)]\")",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/cft0808/edict/main/scripts/kanban_update.py\")",
+      "Bash(git init)",
+      "Bash(git add -A)"
+    ]
+  }
+}
