@@ -51,6 +51,9 @@
     "agentDir": "C:\\Users\\87953\\.openclaw\\agents\\libu\\agent",
     "subagents": {
       "allowAgents": ["shangshu"]
+    },
+    "skills": {
+      "obsidian_inbox": "C:\\Users\\87953\\iCloudDrive\\iCloud~md~obsidian\\Xavier\\0-Inbox"
     }
   },
   {

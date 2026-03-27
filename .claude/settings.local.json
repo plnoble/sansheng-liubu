@@ -5,7 +5,10 @@
       "Bash(python3 -c \"import sys,json; [print\\(i[''name''],i[''type'']\\) for i in json.load\\(sys.stdin\\)]\")",
       "Bash(curl -sL \"https://raw.githubusercontent.com/cft0808/edict/main/scripts/kanban_update.py\")",
       "Bash(git init)",
-      "Bash(git add -A)"
+      "Bash(git add -A)",
+      "Bash(git add agents/libu/SOUL.md)",
+      "Bash(git config user.name \"plnoble\")",
+      "Bash(git config user.email \"plnoble@users.noreply.github.com\")"
     ]
   }
 }
